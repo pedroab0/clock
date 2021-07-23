@@ -1,3 +1,2 @@
 # clock
-Simple analogic and digital clock
-[Site](https://pbclockproject.netlify.app/)
+A analog and a digital [clock](https://pbclockproject.netlify.app/)
